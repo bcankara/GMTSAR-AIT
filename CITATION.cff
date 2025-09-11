@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "GMTSAR-AIT: Automated preparation of a GMTSAR InSAR processing environment on Ubuntu"
+version: v1.0.0
+doi: 10.21105/joss.00000
+date-released: 2025-09-11
+url: "https://github.com/bcankara/GMTSAR-auto-installation-tool"
+repository-code: "https://github.com/bcankara/GMTSAR-auto-installation-tool"
+authors:
+  - family-names: "Kara"
+    given-names: "Burak Can"
+    orcid: "https://orcid.org/0000-0002-6933-0759"
+    affiliation: "Department of Construction, Merzifon Vocational School, Amasya University, Türkiye"
+    email: "burakcan.kara@amasya.edu.tr"
+  - family-names: "Demir"
+    given-names: "Selçuk"
+    affiliation: "BOTAŞ Petroleum Pipeline Corporation Headquarters, Türkiye"
+    email: "demirs17@itu.edu.tr"
+keywords:
+  - "InSAR"
+  - "GMTSAR"
+  - "Ubuntu"
+  - "automation"
+  - "bash"
+  - "synthetic aperture radar"
+  - "interferometry"
+  - "remote sensing"
+license: MIT
+abstract: >-
+  GMTSAR Auto Installation Tool (GMTSAR-AIT) is a lightweight, 
+  open‑source automation utility that prepares a fully functional 
+  GMTSAR environment on Ubuntu LTS systems with minimal user intervention. 
+  The tool orchestrates operating‑system dependency installation, 
+  Anaconda setup, compilation from source, environment‑variable 
+  configuration, and post‑installation validation. By standardizing 
+  the installation pathway for InSAR processing, GMTSAR‑AIT reduces 
+  time‑to‑analysis, minimizes configuration errors, and supports 
+  reproducible research in radar interferometry.
+references:
+  - type: article
+    title: "Open radar interferometry software for mapping surface deformation"
+    authors:
+      - family-names: "Sandwell"
+        given-names: "David"
+      - family-names: "Mellors"
+        given-names: "Robert"
+      - family-names: "Tong"
+        given-names: "Xiaopeng"
+      - family-names: "Wei"
+        given-names: "Meng"
+      - family-names: "Wessel"
+        given-names: "Paul"
+    journal: "Eos, Transactions American Geophysical Union"
+    volume: 92
+    issue: 28
+    start: 234
+    end: 234
+    year: 2011
+    doi: "10.1029/2011EO280002"
