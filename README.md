@@ -111,13 +111,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use GMTSAR-AIT in your research, please cite:
 
 ```bibtex
-@article{kara2025gmtsar,
+@article{,
   title={GMTSAR-AIT: Automated preparation of a GMTSAR InSAR processing environment on Ubuntu},
   author={Kara, Burak Can and Demir, Selçuk},
-  journal={Journal of Open Source Software},
-  year={2025},
-  publisher={The Open Journal},
-  doi={10.21105/joss.00000}
+  journal={},
+  year={},
+  publisher={},
+  doi={}
 }
 ```
 
@@ -139,3 +139,4 @@ For questions, issues, or feature requests:
 - [GMTSAR](http://gmt.soest.hawaii.edu/projects/gmt5sar) - The core InSAR processing software
 - [GMT](https://www.generic-mapping-tools.org/) - Generic Mapping Tools
 - [InSAR Scientific Computing Environment](https://github.com/isce-framework/isce2) - Alternative InSAR processing framework
+
